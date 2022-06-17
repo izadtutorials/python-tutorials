@@ -10,6 +10,6 @@
 
 ## Video Tutorial
 
-[![IMAGE_ALT](https://img.youtube.com/vi/vJZw6ZmD-jI/maxresdefault.jpg)](https://www.youtube.com/watch?v=vJZw6ZmD-jI)
+[![IMAGE_ALT](https://img.youtube.com/vi/hle8pyx7JP8/maxresdefault.jpg)](https://www.youtube.com/watch?v=hle8pyx7JP8)
 
 [Link Playlist](https://youtube.com/playlist?list=PL6lnowVsWu7qFTah_Ba5BxtZYjvuKmqk2)

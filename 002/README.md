@@ -2,7 +2,7 @@
 
 - `print("string\nNewline")`
 - `print("string " + "string")`
-- `print("string" + " " "string")`
+- `print("string" + " " + "string")`
 
 ## Video Tutorial
 
